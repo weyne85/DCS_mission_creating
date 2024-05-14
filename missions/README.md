@@ -12,8 +12,7 @@ dofile('C:\\MyScripts\\hello-world.lua')
 dofile([[C:\MyScripts\hello-world.lua]])
 ```
 
-# Simple Recovery tanker script demonstrating the use of the RECOVERYTANKER.uncontrolledac method.
-# or RECOVERYTANKER:SetUseUncontrolledAircraft(). 
+# Simple Recovery tanker script demonstrating the use of the RECOVERYTANKER.uncontrolledac method or RECOVERYTANKER:SetUseUncontrolledAircraft(). 
 Both are shown below.
 You will require an AI skill S-3B tanker group placed in the mission editor,
 Set to **"Takeoff from Ramp"** and ensure **"Uncontrolled"** is ticked.
